@@ -109,10 +109,60 @@ const vm = new Vue({
                 {
                     job: "Senior Software Engineer",
                     company: ' | <a href="https://www.gforces.co.uk/" title="GForces">GForces</a>',
-                    time_period: "2021 - now",
+                    time_period: "Jan 1st 2019 - now",
                     job_details: [
                         {
-                            name: "PHP, Angular Fullstack Developer"
+                            name: "PHP, Angular, Aws service Fullstack Developer"
+                        }
+                    ]
+                },
+                {
+                    job: "Senior Software Engineer",
+                    company: ' | <a href="https://www.baolau.com/en/" title="BaoLau">BaoLau.vn</a>',
+                    time_period: "July 17th 2017 - December 31st 2018",
+                    job_details: [
+                        {
+                            name: "PHP Codeigniter framework, Javascript, html to build account management, api for company's website"
+                        }
+                    ]
+                },
+                {
+                    job: "Senior Software Engineer",
+                    company: ' | <a href="http://www.elinext.com/" title="Elisoft">Elisoft</a>',
+                    time_period: "April 2013 - march 2016",
+                    job_details: [
+                        {
+                            name: "Php, js Fullstack developers for many different outsource projects"
+                        }
+                    ]
+                },
+                {
+                    job: "Software Engineer",
+                    company: ' | <a href="http://www.vidait.vn/" title="vida">Vida</a>',
+                    time_period: "April 2013 - january 2014",
+                    job_details: [
+                        {
+                            name: "Wordpress"
+                        }
+                    ]
+                },
+                {
+                    job: "Software Engineer",
+                    company: ' | <a href="http://www.uniweb.vn/" title="Uniweb">Uniweb</a>',
+                    time_period: "October 2012 - april 2013",
+                    job_details: [
+                        {
+                            name: "php zend framework to build social website"
+                        }
+                    ]
+                },
+                {
+                    job: "Software Engineer",
+                    company: ' | <a href="http://www.mbizglobal.net/" title="MBIZ">MBIZ</a>',
+                    time_period: "June 2011 - october 2012",
+                    job_details: [
+                        {
+                            name: "php to build internal products"
                         }
                     ]
                 }
@@ -131,6 +181,18 @@ const vm = new Vue({
                     description: "Industry-Leading Car Dealer Websites",
                     participate_in: "Participate in develop new feature, maintain Online Payment & Valuation services as Full-Stack PHP & Angular Developer",
                     link: "https://www.dealerwebsite.co.uk/"
+                },
+                {
+                    name: "https://www.baolau.com",
+                    description: "Information and ticket booking service for travelling around Asia. Find schedules and fares, book flights, trains, buses and ferries.",
+                    participate_in: "Participate in develop new feature, maintain the website",
+                    link: "https://www.baolau.com/en/"
+                },
+                {
+                    name: "https://www.livesv.com/",
+                    description: "CMS website to build other websites",
+                    participate_in: "Participate in develop new features, maintain as main developer of that oursource project",
+                    link: "https://www.livesv.com/"
                 }
             ]
         }
