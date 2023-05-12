@@ -27,10 +27,6 @@ const vm = new Vue({
                         text: 'duytran31187@gmail.com',
                     },
                     {
-                        icon: '<i class="far fa-envelope"></i>',
-                        text: 'duytran31187@gmail.com',
-                    },
-                    {
                         icon: '<i class="fas fa-birthday-cake"></i>',
                         text: 'November 3rd 1987',
                     },
