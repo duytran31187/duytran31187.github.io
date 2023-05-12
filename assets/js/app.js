@@ -123,7 +123,7 @@ const vm = new Vue({
                     ]
                 },
                 {
-                    job: "Senior Software Engineer",
+                    job: "Software Engineer",
                     company: ' | <a href="http://www.elinext.com/" title="Elisoft">Elisoft</a>',
                     time_period: "April 2013 - march 2016",
                     job_details: [
