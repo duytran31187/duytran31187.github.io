@@ -55,15 +55,15 @@ const vm = new Vue({
                     }
                 ],
                 summary: [
-                    "I have about 4 years experience in <strong>HTML5/CSS3/JS, Bootstrap, JQuery, AngularJs</strong>",
+                    "I have about 4 years experience in <strong>HTML5/CSS3/JS, Bootstrap, JQuery, Angular</strong>",
                     "2+ year experience in <strong>Aws services: Ec2, s3, cloudwatch, Xray, Gateway, Codecommit, EventBridge...</strong>",
                     "10 years experience in <strong>PHP</strong> Web Application Development (<strong>Laravel, Yii2, CodeIgniter</strong>)",
                     "3+ year experience in unit tests, feature tests, auto tests with <strong>Codeception, jest</strong>",
                     "7+ year experience in <strong>Mysql</strong> Database",
                     "7+ year experience in <strong>Github/Gitlab/Teamcity</strong> CI/CD",
                     "3+ year experience in <strong>Docker - Kubernetes</strong>",
-                    "4 year experience in <strong>Remote</strong> Working",
-                    "7 years experience in working with foreigners"
+                    "4+ year experience in <strong>Remote</strong> Working",
+                    "7+ years experience in working with foreigners"
                 ]
             },
             skills: [
@@ -83,8 +83,9 @@ const vm = new Vue({
                     name: "Workflow",
                     skills: [
                         "Version Control/Git",
+                        "Aws codecommit"
                         "Apache Subversion (SVN)",
-                        "Agile Scrum"
+                        "Agile Scrum",
                     ]
                 },
                 {
@@ -104,11 +105,11 @@ const vm = new Vue({
             work_history: [
                 {
                     job: "Senior Software Engineer",
-                    company: ' | <a href="https://www.gforces.co.uk/" title="GForces">GForces</a>',
+                    company: ' | <a href="https://www.gforces.co.uk/" title="GForces">ATG</a>',
                     time_period: "Jan 1st 2019 - now",
                     job_details: [
                         {
-                            name: "PHP, Angular, Aws service Fullstack Developer"
+                            technologies: "Technologies: PHP (Yii2), Angularjs (15), Aws services(Cloudwatch, Xray, EventBridge, S3, ec2...), Jenskin, Teamcity"
                         }
                     ]
                 },
