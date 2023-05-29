@@ -83,7 +83,7 @@ const vm = new Vue({
                     name: "Workflow",
                     skills: [
                         "Version Control/Git",
-                        "Aws codecommit"
+                        "Aws codecommit",
                         "Apache Subversion (SVN)",
                         "Agile Scrum",
                     ]
