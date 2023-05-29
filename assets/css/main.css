@@ -194,7 +194,7 @@ header {
   position: fixed;
   width: 100%;
   z-index: 1;
-  background-color: #1a222c;
+  background-color: darkolivegreen;
   opacity: 0.9;
 }
 header nav.custom-nav.top-nav {
@@ -218,7 +218,7 @@ header nav.custom-nav.top-nav a.nav-link:hover {
 /* Begin: Banner */
 #particles-js {
   color: #fff;
-  background-color: #1a222c;
+  background-color: darkolivegreen;
   position: relative;
 }
 #particles-js a {
@@ -325,7 +325,7 @@ header nav.custom-nav.top-nav a.nav-link:hover {
 /* End: Participate in the project */
 /* Begin: Footer */
 footer {
-  background-color: #1a222c;
+  background-color: darkolivegreen;
   color: #fff;
   padding: 10px 0px;
   text-align: center;
