@@ -56,7 +56,7 @@ const vm = new Vue({
                 ],
                 summary: [
                     "I have about more than 4-year experience in <strong>HTML5/CSS3/JS, Bootstrap, JQuery, Angularjs</strong>",
-                    "Less than 1-yer experience with <strong>Reactjs</strong>",
+                    "Less than 1-yer experience with <strong>Reactjs, nextjs</strong>",
                     "more than 2-year experience in <strong>Aws services: Ec2, s3, cloudwatch, Xray, Gateway, Codecommit, EventBridge...</strong>",
                     "more than 10-year experience in <strong>PHP</strong> Web Application Development (<strong>Laravel, Yii2, CodeIgniter</strong>)",
                     "more than 3-year experience in unit tests, feature tests, auto tests with <strong>Codeception, jest</strong>",
