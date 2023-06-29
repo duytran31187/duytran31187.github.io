@@ -71,10 +71,10 @@ const vm = new Vue({
                 {
                     name: "Technial skills",
                     skills: [
-                        "HTML5/CSS3, Jquery, SASS, LESS, Css, Bootstrap, AngularJS",
+                        "HTML5/CSS3, Jquery, SASS, LESS, Css, Bootstrap, AngularJS, Nodejs/Express, Reactjs/NextJs",
                         "Angular Framework",
                         "PHP Laravel Framework, Yii2 Framework..",
-                        "MySQL",
+                        "DynamoDb, MySQL",
                         "Docker - Kubernetes",
                         "Github/Gitlab CI/CD",
                         "Familiar with payment gateways: Stripe, Cybersource, Payfort, Contoworks",
