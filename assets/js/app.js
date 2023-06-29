@@ -76,7 +76,7 @@ const vm = new Vue({
                         "DynamoDb, MySQL",
                         "Docker - Kubernetes",
                         "Github/Gitlab CI/CD",
-                        "Familiar with payment gateways: Stripe, Cybersource, Payfort, Contoworks",
+                        "Familiar with payment gateways: Stripe, Cybersource, Payfort, Contoworks"
                     ]
                 },
                 {
@@ -96,7 +96,7 @@ const vm = new Vue({
                         "Adaptability",
                         "Googling",
                         "Problem-Solving",
-                        "Leadership"
+                        "Leadership",
                         "Creativity",
                         "Confidently communicate in english with foreigners",
                         "Researching New Technology"
