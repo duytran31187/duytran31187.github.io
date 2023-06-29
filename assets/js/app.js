@@ -55,12 +55,12 @@ const vm = new Vue({
                     }
                 ],
                 summary: [
-                    "I have about more than 4-year experience in <strong>HTML5 / CSS3 / JS, Bootstrap, JQuery, Angularjs</strong>",
+                    "I have about more than 4-year experience in <strong>Angularjs, HTML5 / CSS3 / JS, Bootstrap, JQuery</strong>",
                     "1-year experience with <strong>Reactjs, Nodejs/Express</strong>",
+                    "more than 7-year experience in <strong>Mysql, Dynamo</strong> Database",
                     "more than 2-year experience in <strong>Aws services: Ec2, s3, cloudwatch, Xray, Gateway, Codecommit, EventBridge, CloudFormation, Lambda, serverless...</strong>",
                     "more than 10-year experience in <strong>PHP</strong> Web Application Development (<strong>Laravel, Yii2, CodeIgniter</strong>)",
                     "more than 3-year experience in unit tests, feature tests, auto tests with <strong>Codeception, Jest</strong>",
-                    "more than 7-year experience in <strong>Mysql, Dynamo</strong> Database",
                     "more than 7-year experience in <strong>Github/Gitlab/Teamcity</strong> CI/CD",
                     "more than 3-year experience in <strong>Docker - Kubernetes</strong>",
                     "more than 4-year experience in <strong>Remote</strong> Working",
@@ -71,8 +71,7 @@ const vm = new Vue({
                 {
                     name: "Technial skills",
                     skills: [
-                        "HTML5/CSS3, Jquery, SASS, LESS, Css, Bootstrap, AngularJS, Nodejs/Express, Reactjs/NextJs",
-                        "Angular Framework",
+                        "AngularJS, Nodejs/Express, Reactjs/NextJs, HTML5/CSS3, Jquery, SASS, LESS, Css, Bootstrap",
                         "PHP Laravel Framework, Yii2 Framework..",
                         "DynamoDb, MySQL",
                         "Docker - Kubernetes",
@@ -97,6 +96,7 @@ const vm = new Vue({
                         "Adaptability",
                         "Googling",
                         "Problem-Solving",
+                        "Leadership"
                         "Creativity",
                         "Confidently communicate in english with foreigners",
                         "Researching New Technology"
