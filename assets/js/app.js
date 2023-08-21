@@ -111,7 +111,7 @@ const vm = new Vue({
                     time_period: "Jan 1st 2019 - now",
                     job_details: [
                         {
-                            name: "Technologies: PHP (Yii2), Angularjs (15), Aws services(Cloudwatch, Xray, EventBridge, S3, ec2...), Jenskin, Teamcity"
+                            name: "Technologies: PHP (Yii2), Angularjs (15), Typescript, Serverless, Aws services(Cloudwatch, Xray, EventBridge, S3, ec2...), Jenskin, Teamcity"
                         }
                     ]
                 },
