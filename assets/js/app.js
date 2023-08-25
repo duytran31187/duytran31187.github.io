@@ -58,7 +58,7 @@ const vm = new Vue({
                     "I have about more than 4-year experience in <strong>Angularjs, HTML5 / CSS3 / JS, Bootstrap, JQuery</strong>",
                     "1-year experience with <strong>Reactjs, Nodejs/Express</strong>",
                     "1-year experience with <strong>Serverless/Sst</strong>",
-                    "more than 7-year experience in <strong>Mysql, Dynamo</strong> Database",
+                    "more than 7-year experience in <strong>Mysql, Dynamo, Mongo</strong> Database",
                     "more than 2-year experience in <strong>Aws services: Ec2, s3, cloudwatch, Xray, Gateway, Codecommit, EventBridge, CloudFormation, Lambda, serverless...</strong>",
                     "more than 10-year experience in <strong>PHP</strong> Web Application Development (<strong>Laravel, Yii2, CodeIgniter</strong>)",
                     "more than 3-year experience in unit tests, feature tests, auto tests with <strong>Codeception, Jest</strong>",
